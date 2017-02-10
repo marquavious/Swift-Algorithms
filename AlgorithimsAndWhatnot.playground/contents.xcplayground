@@ -3,5 +3,6 @@
     <pages>
         <page name='BInarySearch'/>
         <page name='DictionariesOverArrays'/>
+        <page name='FizzBuzz'/>
     </pages>
 </playground>
