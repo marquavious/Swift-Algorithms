@@ -4,5 +4,7 @@
         <page name='BInarySearch'/>
         <page name='DictionariesOverArrays'/>
         <page name='FizzBuzz'/>
+        <page name='Factorials and Recursion'/>
+        <page name='MergeSort'/>
     </pages>
 </playground>
